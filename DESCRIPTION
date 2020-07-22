@@ -24,7 +24,7 @@ Authors@R: c(
          email='paul.metcalfe@astrazeneca.com',
          role=c("aut"))
   )
-Maintainer: Jonathan Bartlett <jonathan.bartlett1@astrazeneca.com>
+Maintainer: Jonathan Bartlett <j.w.bartlett@bath.ac.uk>
 Author: David Ruau [aut],
     Nikolas Burkoff [aut],
     Jonathan Bartlett [aut, cre],
@@ -49,5 +49,5 @@ Suggests:
     knitr,
     testthat
 VignetteBuilder: knitr
-URL: https://github.com/scientific-computing-solutions/InformativeCensoring
+URL: https://github.com/jwb133/InformativeCensoring
 RoxygenNote: 7.1.1
