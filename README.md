@@ -1,9 +1,7 @@
 # InformativeCensoring
 
-[![Build Status](https://travis-ci.org/scientific-computing-solutions/InformativeCensoring.svg?branch=master)](https://travis-ci.org/scientific-computing-solutions/InformativeCensoring)
+[![Travis build status](https://travis-ci.com/jwb133/InformativeCensoring.svg?branch=master)](https://travis-ci.com/jwb133/InformativeCensoring)
 [![CRAN_Status_Badge](http://www.r-pkg.org/badges/version/InformativeCensoring)](https://cran.r-project.org/package=InformativeCensoring)
-[![Coverage Status](https://coveralls.io/repos/scientific-computing-solutions/InformativeCensoring/badge.svg?branch=master&service=github)](https://coveralls.io/github/scientific-computing-solutions/InformativeCensoring?branch=master)
-[![AppVeyor Build Status](https://ci.appveyor.com/api/projects/status/github/scientific-computing-solutions/InformativeCensoring?branch=master&svg=true)](https://ci.appveyor.com/project/scientific-computing-solutions/InformativeCensoring)
 [![CRAN RStudio mirror downloads](http://cranlogs.r-pkg.org/badges/InformativeCensoring)](https://cran.r-project.org/package=InformativeCensoring)
 [![CRAN RStudio mirror downloads](http://cranlogs.r-pkg.org/badges/grand-total/InformativeCensoring)](https://cran.r-project.org/package=InformativeCensoring)
 
