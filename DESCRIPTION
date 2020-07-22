@@ -4,15 +4,15 @@ Title: Multiple Imputation for Informative Censoring
 Version: 0.3.4
 Authors@R: c(
   person("David", "Ruau", 
-         email='david.ruau@astrazeneca.com',
+         email='davidruau@gmail.com',
          role=c("aut")),
   person("Nikolas", "Burkoff", 
          role=c("aut")),
   person("Jonathan", "Bartlett", 
-         email='jonathan.bartlett1@astrazeneca.com',
+         email='j.w.bartlett@bath.ac.uk',
          role=c("aut","cre")),
   person("Dan", "Jackson", 
-         email='dan.jackson@mrc-bsu.cam.ac.uk',
+         email='daniel.jackson1@astrazeneca.com',
          role=c("aut")),
   person("Edmund", "Jones", 
          email='epaj2@medschl.cam.ac.uk',
@@ -50,4 +50,4 @@ Suggests:
     testthat
 VignetteBuilder: knitr
 URL: https://github.com/scientific-computing-solutions/InformativeCensoring
-RoxygenNote: 5.0.1
+RoxygenNote: 7.1.1

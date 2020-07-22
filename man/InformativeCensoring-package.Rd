@@ -2,8 +2,8 @@
 % Please edit documentation in R/dataDescription.R
 \docType{package}
 \name{InformativeCensoring-package}
-\alias{InformativeCensoring}
 \alias{InformativeCensoring-package}
+\alias{InformativeCensoring}
 \title{Perform methods of multiple imputation for
 time to event data}
 \description{
@@ -22,4 +22,3 @@ hazards model using multiple imputation. Jackson et al., Statistics in Medicine
 \author{
 \email{David.Ruau@astrazeneca.com}
 }
-
