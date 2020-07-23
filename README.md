@@ -22,7 +22,7 @@ To install the development version from GitHub:
 install.packages("devtools")
 # We spent a lot of time developing the vignettes. We recommend the read but 
 # building them from source takes some time
-devtools::install_github("scientific-computing-solutions/InformativeCensoring", 
+devtools::install_github("jwb133/InformativeCensoring", 
                          build_vignettes = TRUE)
 ```
 
