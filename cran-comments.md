@@ -6,8 +6,4 @@ This R package was previously on CRAN but was removed late 2019 because it was f
 * win-builder (devel 2020-07-19 r78884 and release 4.0.2)
 
 ## R CMD check results
-Note about this cran-comments.md file being non-standard.
-
-Note about possible misspelling of Hsu in DESCRIPTION, but this is correct.
-
-Note "Unable to find GhostScript executable to run checks on size reduction"
+Note about possible misspelling of Hsu, et, and al, in DESCRIPTION, but these are correct.
