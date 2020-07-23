@@ -6,4 +6,4 @@ This R package was previously on CRAN but was removed late 2019 because it was f
 * win-builder (devel 2020-07-19 r78884 and release 4.0.2)
 
 ## R CMD check results
-Note about possible misspelling of Hsu, et, and al, in DESCRIPTION, but these are correct.
+All ok.
