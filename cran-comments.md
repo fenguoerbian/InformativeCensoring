@@ -1,9 +1,7 @@
-This R package was previously on CRAN but was removed late 2019 because it was failing tests. I didn't receive emails because the maintainer address was the one I had at a previous company (AstraZeneca). I've made the required modifications to fix these test failures.
-
 ## Test environments
-* local Windows 10, R 4.0.2
-* Ubuntu 16.04.6 LTS (on travis-ci), R 4.0.0
-* win-builder (devel 2020-07-19 r78884 and release 4.0.2)
+* local Mac 13.3.1 (22E261) - 4.3.0 (2023-04-21)
+* win-builder R Under development (unstable) (2023-06-03 r84490 ucrt)
+* win-builder R version 4.3.0 (2023-04-21 ucrt)
 
 ## R CMD check results
-All ok.
+1 note concerning change of maintainer (I have updated my email address).
