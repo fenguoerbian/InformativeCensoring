@@ -185,7 +185,7 @@ Sfn <- function(indices,data,event.model,censor.model,col.control,NN.control,tim
   if((event && all(data[,has.event]==0)) || (!event && all(data[,has.censoring]!=1))){
     return(NULL)
   }
-  return(coxph(formula,droplevels(data),model=TRUE,na.action=na.fail,...))
+  return(coxph(formula, data, model=TRUE, na.action=na.fail, ...))
 }
 
 
